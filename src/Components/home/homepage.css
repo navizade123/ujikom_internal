@@ -1,0 +1,35 @@
+.gambar {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 199vh;
+}
+
+.text1 {
+    text-align: center;
+    color: black;
+}
+/* 
+.image-container {
+    position: flex;
+  } */
+.image-container1{
+    width: 20%;
+    height: 20%;
+    margin-right: auto;
+  }
+  .gambar {
+    margin-bottom: 20px; /* Add margin to the bottom of each image */
+  }
+  
+  .text-overlay {
+    position: absolute;
+    /* padding-top: 1px; */
+    top: 14%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    color: wheat; 
+    font-size: 30px; 
+    font-weight: bold; 
+  }
+  
